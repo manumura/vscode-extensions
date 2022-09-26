@@ -16,7 +16,6 @@ code --install-extension Equinusocio.vsc-material-theme
 code --install-extension esbenp.prettier-vscode
 code --install-extension formulahendry.auto-close-tag
 code --install-extension formulahendry.code-runner
-code --install-extension GitHub.copilot
 code --install-extension golang.go
 code --install-extension Gruntfuggly.todo-tree
 code --install-extension jeroen-meijer.pubspec-assist
@@ -24,8 +23,10 @@ code --install-extension johnpapa.Angular2
 code --install-extension JuanBlanco.solidity
 code --install-extension matt-meyers.vscode-dbml
 code --install-extension mhutchie.git-graph
+code --install-extension mikestead.dotenv
 code --install-extension ms-azuretools.vscode-docker
 code --install-extension ms-kubernetes-tools.vscode-kubernetes-tools
+code --install-extension ms-playwright.playwright
 code --install-extension ms-python.python
 code --install-extension ms-python.vscode-pylance
 code --install-extension ms-toolsai.jupyter
@@ -44,6 +45,7 @@ code --install-extension redhat.vscode-yaml
 code --install-extension Shan.code-settings-sync
 code --install-extension SonarSource.sonarlint-vscode
 code --install-extension svelte.svelte-vscode
+code --install-extension TabNine.tabnine-vscode
 code --install-extension toba.vsfire
 code --install-extension usernamehw.errorlens
 code --install-extension wayou.vscode-todo-highlight
