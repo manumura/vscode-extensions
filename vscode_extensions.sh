@@ -1,6 +1,7 @@
 code --install-extension 2gua.rainbow-brackets
 code --install-extension aaron-bond.better-comments
 code --install-extension amazonwebservices.aws-toolkit-vscode
+code --install-extension be5invis.toml
 code --install-extension bradlc.vscode-tailwindcss
 code --install-extension christian-kohler.npm-intellisense
 code --install-extension Dart-Code.dart-code
@@ -13,6 +14,7 @@ code --install-extension eamodio.gitlens
 code --install-extension eg2.vscode-npm-script
 code --install-extension Equinusocio.vsc-community-material-theme
 code --install-extension Equinusocio.vsc-material-theme
+code --install-extension equinusocio.vsc-material-theme-icons
 code --install-extension esbenp.prettier-vscode
 code --install-extension formulahendry.auto-close-tag
 code --install-extension formulahendry.code-runner
@@ -21,6 +23,7 @@ code --install-extension Gruntfuggly.todo-tree
 code --install-extension jeroen-meijer.pubspec-assist
 code --install-extension johnpapa.Angular2
 code --install-extension JuanBlanco.solidity
+code --install-extension kisstkondoros.vscode-gutter-preview
 code --install-extension matt-meyers.vscode-dbml
 code --install-extension mhutchie.git-graph
 code --install-extension mikestead.dotenv
@@ -32,6 +35,8 @@ code --install-extension ms-python.vscode-pylance
 code --install-extension ms-toolsai.jupyter
 code --install-extension ms-toolsai.jupyter-keymap
 code --install-extension ms-toolsai.jupyter-renderers
+code --install-extension ms-toolsai.vscode-jupyter-cell-tags
+code --install-extension ms-toolsai.vscode-jupyter-slideshow
 code --install-extension ms-vscode-remote.remote-containers
 code --install-extension ms-vscode-remote.remote-wsl
 code --install-extension ms-vscode.makefile-tools
@@ -39,6 +44,7 @@ code --install-extension ms-vscode.vscode-typescript-tslint-plugin
 code --install-extension msjsdiag.debugger-for-chrome
 code --install-extension Nash.awesome-flutter-snippets
 code --install-extension naumovs.color-highlight
+code --install-extension oderwat.indent-rainbow
 code --install-extension PKief.material-icon-theme
 code --install-extension quicktype.quicktype
 code --install-extension redhat.vscode-yaml
